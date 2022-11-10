@@ -121,6 +121,16 @@ nav ul li{
    color: darkgray;
 }
 
+.tableone a{
+    color: black;
+    text-align: center;
+    height: 20px;
+    width: 90px;
+    font-size: x-large;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
 .tabletwo h1{
     color: darkgray;
 }
